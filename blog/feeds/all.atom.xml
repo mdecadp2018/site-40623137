@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623137/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623137/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623137/blog/</id><updated>2018-10-19T11:30:00+08:00</updated><entry><title>2018 Fall w5</title><link href="https://mdecadp2018.github.io/site-40623137/blog/40623137-blog1.html" rel="alternate"></link><published>2018-10-19T11:30:00+08:00</published><updated>2018-10-19T11:30:00+08:00</updated><author><name>40623137</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623137/blog/40623137-blog1.html</id><summary type="html">&lt;p&gt;2018-10-12 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018-10-12 網誌&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623137/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623137/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623137/blog/</id><updated>2018-11-08T21:30:00+08:00</updated><entry><title>2018 Fall w3</title><link href="https://mdecadp2018.github.io/site-40623137/blog/40623137-w3.html" rel="alternate"></link><published>2018-11-08T21:30:00+08:00</published><updated>2018-11-08T21:30:00+08:00</updated><author><name>40623137</name></author><id>tag:mdecadp2018.github.io,2018-11-08:/site-40623137/blog/40623137-w3.html</id><summary type="html">&lt;p&gt;week3 網誌 &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week3 網誌 &lt;/p&gt;
+
+
+&lt;p&gt;如何更新倉儲  tmp -&amp;gt; site-40623137 -&amp;gt; python wsgi.py 進入近端更新心得及操作影片 完成後轉至靜態網頁 git add .  -&amp;gt; git commit -m "" -&amp;gt; git push  完成上推&lt;/p&gt;
+&lt;p&gt;學習Onshape教學PDF  並將繪圖的過程拍攝成影片上傳至個人 youtube 並將網址連結放上CMSimfly , Reveal.js , Pelican blog &lt;/p&gt;
+&lt;p&gt;閱讀onshape pdf講義 
+利用英英字典查生字 
+學習專業名詞單字&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall w7</title><link href="https://mdecadp2018.github.io/site-40623137/blog/40623137-w7.html" rel="alternate"></link><published>2018-11-08T21:30:00+08:00</published><updated>2018-11-08T21:30:00+08:00</updated><author><name>40623137</name></author><id>tag:mdecadp2018.github.io,2018-11-08:/site-40623137/blog/40623137-w7.html</id><summary type="html">&lt;p&gt;2018-10-26 week7 網誌 &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018-10-26 week7 網誌 &lt;/p&gt;
+
+
+&lt;p&gt;更改網路設定:&lt;/p&gt;
+&lt;p&gt;控制台---&amp;gt;網路和網際網路----&amp;gt;乙太網路2&lt;/p&gt;
+&lt;p&gt;--&amp;gt;變更介面卡選項---&amp;gt;內容---&amp;gt;網際網路通訊協定第4版(IPv4)&lt;/p&gt;
+&lt;p&gt;在使用DNS伺服器位置輸入:&lt;/p&gt;
+&lt;p&gt;140.130.17.3 &lt;/p&gt;
+&lt;p&gt;140.130.1.2&lt;/p&gt;
+&lt;p&gt;網際網路通訊協定第6版(IPv6):&lt;/p&gt;
+&lt;p&gt;2001:288:6004:17::3  系上&lt;/p&gt;
+&lt;p&gt;2001:288:6004:1::2  學校&lt;/p&gt;
+&lt;p&gt;2001:b000:168::1 hinet&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall w2</title><link href="https://mdecadp2018.github.io/site-40623137/blog/40623137-w2.html" rel="alternate"></link><published>2018-10-19T21:30:00+08:00</published><updated>2018-10-19T21:30:00+08:00</updated><author><name>40623137</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623137/blog/40623137-w2.html</id><summary type="html">&lt;p&gt;week2 網誌 &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week2 網誌 &lt;/p&gt;
+
+
+&lt;p&gt;學習如何切換分支  git checkout gh-pages  &amp;gt;  git branch   另一個方法 進入倉儲 按setting &amp;gt; Branches &amp;gt; 把 master改成 gh-pages 按儲存   &lt;/p&gt;
+&lt;p&gt;學習管理自己的倉儲  每週拍攝操作影片 新增心得到 CMSimfly , Reveal.js , Pelican blog 上&lt;/p&gt;
+&lt;p&gt;註冊Onshape帳號  開始學習如何使用Onshape繪圖&lt;/p&gt;
+&lt;p&gt;本周閱讀onshape pdf講義 
+利用英英字典查生字 
+學習專業名詞單字
+繪製week2 homework&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall w5</title><link href="https://mdecadp2018.github.io/site-40623137/blog/40623137-blog1.html" rel="alternate"></link><published>2018-10-19T11:30:00+08:00</published><updated>2018-10-19T11:30:00+08:00</updated><author><name>40623137</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623137/blog/40623137-blog1.html</id><summary type="html">&lt;p&gt;2018-10-12 week5 網誌&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018-10-12 week5 網誌&lt;/p&gt;
 
 
 &lt;p&gt;學習如何使用 onshape
@@ -13,7 +44,7 @@
 &lt;p&gt;本周閱讀onshape pdf講義 
 利用英英字典查生字 
 學習專業名詞單字
-繪製week2 homework&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall</title><link href="https://mdecadp2018.github.io/site-40623137/blog/40623137-blog.html" rel="alternate"></link><published>2018-10-05T11:30:00+08:00</published><updated>2018-10-05T11:30:00+08:00</updated><author><name>40623137</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623137/blog/40623137-blog.html</id><summary type="html">&lt;p&gt;2018-10-05 網誌&lt;/p&gt;
+繪製week2 homework&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall w4</title><link href="https://mdecadp2018.github.io/site-40623137/blog/40623137-blog.html" rel="alternate"></link><published>2018-10-05T11:30:00+08:00</published><updated>2018-10-05T11:30:00+08:00</updated><author><name>40623137</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623137/blog/40623137-blog.html</id><summary type="html">&lt;p&gt;2018-10-05 網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018-10-05 網誌&lt;/p&gt;
 
 

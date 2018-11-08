@@ -26,8 +26,26 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>1</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108235916.1" a="E"><vh>2</vh>
+<v t="leo.20181108235916.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108235911.1" a="E"><vh>3</vh>
+<v t="leo.20181108235911.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108235925.1" a="E"><vh>4</vh>
+<v t="leo.20181108235925.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108235931.1" a="E"><vh>5</vh>
+<v t="leo.20181108235931.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108235935.1" a="E"><vh>6</vh>
+<v t="leo.20181108235935.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108235937.1"><vh>7</vh>
+<v t="leo.20181108235937.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -147,16 +165,12 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12"># 第一週
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
+*  準備隨身碟
+*  筆記本
+*  耳機
+* 登入Github領取作業</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -330,5 +344,118 @@ make.start()
 </t>
 <t tx="leo.20181005102319.1"></t>
 <t tx="leo.20181005102405.1"></t>
+<t tx="leo.20181108235911.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235911.2"># 第三週
+
+* 如何更新倉儲 tmp -&gt; site-40623137 -&gt; python wsgi.py 進入近端更新心得及操作影片 完成後轉至靜態網頁 git add . -&gt; git commit -m "" -&gt; git push 完成上推
+
+* 學習Onshape教學PDF 並將繪圖的過程拍攝成影片上傳至個人 youtube 並將網址連結放上CMSimfly , Reveal.js , Pelican blog
+
+* 閱讀onshape pdf講義 利用英英字典查生字 學習專業名詞單字
+
+
+</t>
+<t tx="leo.20181108235916.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235916.2"># 第二週
+
+* 學習如何切換分支  git checkout gh-pages  &gt;  git branch   另一個方法 進入倉儲 按setting &gt; Branches &gt; 把 master改成 gh-pages 按儲存   
+
+* 學習管理自己的倉儲  每週拍攝操作影片 新增心得到 CMSimfly , Reveal.js , Pelican blog 上
+
+* 註冊Onshape帳號  開始學習如何使用Onshape繪圖</t>
+<t tx="leo.20181108235925.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235925.2"># 第四週
+
+* 並將繪圖的過程拍攝成影片上傳至個人 youtube 並將網址連結放上CMSimfly , Reveal.js , Pelican blog 
+
+* 利用英英字典查詢不會的英文單字  並將結果抄在筆記本上</t>
+<t tx="leo.20181108235931.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235931.2"># 第五週
+
+* Onshape 操作影片
+
+https://youtu.be/XyKHvNVX1cY
+
+https://youtu.be/tc9kHxh2TS4</t>
+<t tx="leo.20181108235935.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235935.2"># 第六週
+
+* Onshape 操作影片
+
+https://youtu.be/3Xa-rNU2NtI
+
+https://youtu.be/7I-Ut0jfV1M</t>
+<t tx="leo.20181108235937.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235937.2"># 第七週
+
+更改網路設定:
+
+控制台---&gt;網路和網際網路----&gt;乙太網路2
+
+--&gt;變更介面卡選項---&gt;內容---&gt;網際網路通訊協定第4版(IPv4)
+
+在使用DNS伺服器位置輸入:
+
+140.130.17.3
+
+140.130.1.2
+
+網際網路通訊協定第6版(IPv6):
+
+2001:288:6004:17::3 系上
+
+2001:288:6004:1::2 學校
+
+2001:b000:168::1 hinet
+
+</t>
 </tnodes>
 </leo_file>

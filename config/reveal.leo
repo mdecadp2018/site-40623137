@@ -26,7 +26,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>1</vh>
+<v t="leo.20180827201621.11"><vh>1</vh>
 <v t="leo.20180827201621.12"><vh>12</vh></v>
 </v>
 <v t="leo.20181108235916.1" a="E"><vh>2</vh>
@@ -51,33 +51,35 @@
 <v t="leo.20190609225509.2"><vh>問題與解決</vh></v>
 </v>
 </v>
-<v t="leo.20181108235925.1"><vh>4</vh></v>
 <v t="leo.20190609230508.1" a="E"><vh>15</vh>
-<v t="leo.20190609230508.2"><vh>內容</vh></v>
+<v t="leo.20190609232433.1" a="E"><vh>14</vh>
+<v t="leo.20190609232433.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190609231153.1" a="E"><vh>15</vh>
-<v t="leo.20190609231153.2"><vh>Onshape操作影片</vh></v>
+<v t="leo.20190609232128.1" a="E"><vh>14</vh>
+<v t="leo.20190609232128.2"><vh>Onshape操作影片</vh></v>
 </v>
-<v t="leo.20190609230420.1" a="E"><vh>15</vh>
-<v t="leo.20190609230420.2"><vh>vrep模擬影片</vh></v>
+<v t="leo.20190609232125.1" a="E"><vh>14</vh>
+<v t="leo.20190609232125.2"><vh>vrep模擬影片</vh></v>
 </v>
-<v t="leo.20190609230417.1" a="E"><vh>15</vh>
-<v t="leo.20190609230417.2"><vh>問題與解決1</vh></v>
+<v t="leo.20190609232124.1" a="E"><vh>14</vh>
+<v t="leo.20190609232124.2"><vh>問題與解決1</vh></v>
 </v>
-<v t="leo.20190609230413.1" a="E"><vh>15</vh>
-<v t="leo.20190609230413.2"><vh>問題與解決2</vh></v>
+<v t="leo.20190609232122.1" a="E"><vh>14</vh>
+<v t="leo.20190609232122.2"><vh>問題與解決2</vh></v>
 </v>
-<v t="leo.20181108235931.1"><vh>5</vh></v>
+</v>
 <v t="leo.20190609231445.1" a="E"><vh>16</vh>
-<v t="leo.20190609231445.2"><vh>內容</vh></v>
+<v t="leo.20190609232451.1" a="E"><vh>14</vh>
+<v t="leo.20190609232451.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190609231432.1" a="E"><vh>16</vh>
-<v t="leo.20190609231432.2"><vh>問題與解決2</vh></v>
+<v t="leo.20190609232309.1" a="E"><vh>14</vh>
+<v t="leo.20190609232309.2"><vh>問題與解決2</vh></v>
 </v>
-<v t="leo.20181108235935.1" a="E"><vh>6</vh>
-<v t="leo.20181108235935.2"><vh>自評</vh></v>
 </v>
-<v t="leo.20181108235937.1"><vh>7</vh>
+<v t="leo.20190609232607.1" a="E"><vh>16</vh>
+<v t="leo.20190609232607.2"><vh>自評</vh></v>
+</v>
+<v t="leo.20181108235937.1" a="E"><vh>7</vh>
 <v t="leo.20181108235937.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -357,62 +359,19 @@ make.start()
 </t>
 <t tx="leo.20181005102319.1"></t>
 <t tx="leo.20181005102405.1"></t>
-<t tx="leo.20181108235911.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181108235911.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20181108235916.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181108235916.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
-</t>
-<t tx="leo.20181108235925.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108235931.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108235935.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108235935.2"># 自評
-
-* 出席率:20分
-* Github倉儲管理:10分
-* Onshape協同操作:13分
-* V-rep模擬:13分
-* 程式開發:5分
-
-
-
-
 </t>
 <t tx="leo.20181108235937.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -457,11 +416,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190609221014.2"># 起初設計的送球機構零件圖
+<t tx="leo.20190609221014.2">## 起初設計的送球機構零件圖
 
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_TkADHrxpWi.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_TkADHrxpWi.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_o7OWXkFmZN.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_o7OWXkFmZN.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;</t>
 <t tx="leo.20190609225024.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -490,11 +449,11 @@ weight="500"height="300"&gt;&lt;/img&gt;</t>
 
 						
 </t>
-<t tx="leo.20190609225509.2"># 問題與解決
-## 一開始的想法是要把機構設計在入球口的附近，但是發現機構太大無法放入預想位置，會和竿子形成干涉，最後把機構安排在出球口附近，然後延續第二個機構的想法完成最後完整版機構
+<t tx="leo.20190609225509.2">### 問題與解決
+一開始的想法是要把機構設計在入球口的附近，但是發現機構太大無法放入預想位置，會和竿子形成干涉，最後把機構安排在出球口附近，然後延續第二個機構的想法完成最後完整版機構
 
 
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_XwGNxwIpMr.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_XwGNxwIpMr.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609225518.1">&lt;section data-markdown&gt;
@@ -508,9 +467,9 @@ weight="500"height="300"&gt;&lt;/img&gt;
 
 						
 </t>
-<t tx="leo.20190609225518.2"># 送球機構零件組合圖
+<t tx="leo.20190609225518.2">## 送球機構零件組合圖
 
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_0NjNRvO56N.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_0NjNRvO56N.png?raw=true"
 weight="800"height="600"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609225523.1">&lt;section data-markdown&gt;
@@ -524,11 +483,11 @@ weight="800"height="600"&gt;&lt;/img&gt;
 
 						
 </t>
-<t tx="leo.20190609225523.2"># 送球機構零件圖
+<t tx="leo.20190609225523.2">## 送球機構零件圖
 
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_5TntMNf280.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_5TntMNf280.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_LZYIOrWQBl.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_LZYIOrWQBl.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;</t>
 <t tx="leo.20190609225637.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -546,7 +505,23 @@ weight="500"height="300"&gt;&lt;/img&gt;</t>
 * Onshape零件繪製
 * 小組討論機構位置
 </t>
-<t tx="leo.20190609230413.1">&lt;section data-markdown&gt;
+<t tx="leo.20190609230508.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609231445.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+
+
+</t>
+<t tx="leo.20190609232122.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -557,14 +532,14 @@ weight="500"height="300"&gt;&lt;/img&gt;</t>
 
 						
 </t>
-<t tx="leo.20190609230413.2"># 問題與解決
-## 在vrep模擬時發現球在軌道無法順利滾動，必須把軌道的偏移量從5修改為2才能讓球不會卡住滾到下一個軌道
+<t tx="leo.20190609232122.2">### 問題與解決
+在vrep模擬時發現球在軌道無法順利滾動，必須把軌道的偏移量從5修改為2才能讓球不會卡住滾到下一個軌道
 
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/1uPR9o7.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/1uPR9o7.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_DpyjNHo1y4.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_DpyjNHo1y4.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;</t>
-<t tx="leo.20190609230417.1">&lt;section data-markdown&gt;
+<t tx="leo.20190609232124.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -575,17 +550,17 @@ weight="500"height="300"&gt;&lt;/img&gt;</t>
 
 						
 </t>
-<t tx="leo.20190609230417.2"># 問題與解決
-## 原本旋轉軸的設計是圓頭但是由於圓頭的設計會導致在機構內產生空隙讓球在裡面空轉
+<t tx="leo.20190609232124.2">### 問題與解決
+原本旋轉軸的設計是圓頭但是由於圓頭的設計會導致在機構內產生空隙讓球在裡面空轉
 
 改良成方形扁頭並在兩側加厚讓轉頭產生一個空間讓球能順利帶上來
 
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_LaI8ySACNb.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_LaI8ySACNb.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;
-&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_5TntMNf280.png"
+&lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_5TntMNf280.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;
 </t>
-<t tx="leo.20190609230420.1">&lt;section data-markdown&gt;
+<t tx="leo.20190609232125.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -596,11 +571,11 @@ weight="500"height="300"&gt;&lt;/img&gt;
 
 						
 </t>
-<t tx="leo.20190609230420.2"># vrep模擬影片
+<t tx="leo.20190609232125.2">## vrep模擬影片
 
 &lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/j3-hlbmgM8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20190609230508.1">&lt;section data-markdown&gt;
+<t tx="leo.20190609232128.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -611,13 +586,41 @@ weight="500"height="300"&gt;&lt;/img&gt;
 
 						
 </t>
-<t tx="leo.20190609230508.2"># 第15週
+<t tx="leo.20190609232128.2">## Onshape操作影片
+
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Y71aAbQlwfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609232309.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609232309.2">### 手足球人人對打vrep模擬影片
+
+&lt;iframe width="956" height="538" src="https://www.youtube.com/embed/vkjwcHlJfh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609232433.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609232433.2"># 第15週
 
 * 送球機構零件組裝
 * vrep模擬送球機構
 * 修改尺寸
 </t>
-<t tx="leo.20190609231153.1">&lt;section data-markdown&gt;
+<t tx="leo.20190609232451.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -628,38 +631,29 @@ weight="500"height="300"&gt;&lt;/img&gt;
 
 						
 </t>
-<t tx="leo.20190609231153.2"># Onshape操作影片
-
-&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Y71aAbQlwfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20190609231432.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190609231432.2"># 手足球人人對打vrep模擬影片
-
-&lt;iframe width="956" height="538" src="https://www.youtube.com/embed/vkjwcHlJfh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20190609231445.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190609231445.2"># 第16週
+<t tx="leo.20190609232451.2"># 第16週
 
 * 送球機構vrep模擬最後確認
 * 學習程式
 * 手足球人人對打模擬</t>
+<t tx="leo.20190609232607.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190609232607.2"># 自評
+
+* 出席率:20分
+* Github倉儲管理:10分
+* Onshape協同操作:13分
+* V-rep模擬:13分
+* 程式開發:5分
+
+
+
+
+</t>
 </tnodes>
 </leo_file>

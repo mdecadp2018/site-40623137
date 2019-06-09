@@ -176,7 +176,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2019期末個人簡報
 
 ### 虎科大機械設計工程系
 ##設計二甲 40623137 黃盟泰
@@ -421,7 +421,9 @@ make.start()
 &lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_TkADHrxpWi.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;
 &lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_o7OWXkFmZN.png?raw=true"
-weight="500"height="300"&gt;&lt;/img&gt;</t>
+weight="500"height="300"&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190609225024.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -488,7 +490,9 @@ weight="800"height="600"&gt;&lt;/img&gt;
 &lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_5TntMNf280.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;
 &lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_LZYIOrWQBl.png?raw=true"
-weight="500"height="300"&gt;&lt;/img&gt;</t>
+weight="500"height="300"&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190609225637.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -538,7 +542,9 @@ weight="500"height="300"&gt;&lt;/img&gt;</t>
 &lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/1uPR9o7.png?raw=true"
 weight="500"height="300"&gt;&lt;/img&gt;
 &lt;img src="https://github.com/mdecadp2018/site-40623137/blob/gh-pages/images/chrome_DpyjNHo1y4.png?raw=true"
-weight="500"height="300"&gt;&lt;/img&gt;</t>
+weight="500"height="300"&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190609232124.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -588,7 +594,9 @@ weight="500"height="300"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609232128.2">## Onshape操作影片
 
-&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Y71aAbQlwfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Y71aAbQlwfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190609232309.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -602,7 +610,9 @@ weight="500"height="300"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190609232309.2">### 手足球人人對打vrep模擬影片
 
-&lt;iframe width="956" height="538" src="https://www.youtube.com/embed/vkjwcHlJfh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="956" height="538" src="https://www.youtube.com/embed/vkjwcHlJfh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190609232433.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -635,7 +645,9 @@ weight="500"height="300"&gt;&lt;/img&gt;
 
 * 送球機構vrep模擬最後確認
 * 學習程式
-* 手足球人人對打模擬</t>
+* 手足球人人對打模擬
+
+</t>
 <t tx="leo.20190609232607.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;

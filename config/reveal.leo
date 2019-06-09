@@ -650,6 +650,7 @@ weight="500"height="300"&gt;&lt;/img&gt;
 * Onshape協同操作:13分
 * V-rep模擬:13分
 * 程式開發:5分
+* 總分:61分
 
 
 
